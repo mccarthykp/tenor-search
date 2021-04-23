@@ -1,2 +1,2 @@
 # tenor-search
-gif search app
+[View here](https://mccarthykp.github.io/tenor-search/)
